@@ -64,7 +64,7 @@ class Creature:
         cible.defense -= debuff_value
         cible.defense = max(cible.defense, 0)
         print(f"{self.nom} affaiblit {cible.nom}, réduisant sa défense de {debuff_value}!")
-
+#Fonctionnalités supplementaires
 #appliquer un effet d'état à une créature
 def appliquer_effet(creature, effet, duree):
     creature.etats.append({"effet": effet, "duree": duree})

@@ -1,5 +1,7 @@
 Systeme de combat rpg
 
+Notre planning :https://trello.com/b/O10CrQ6b/projet-python-dylan
+
 Bienvenue dans le Systeme de combat rpg , un jeu de combat au tour par tour où vous incarnez un héros affrontant des créatures redoutables. Choisissez votre personnage, équipez une arme et affrontez des monstres en utilisant des attaques, des buffs/debuffs et des objets stratégiques.
 
  Les fonctionnalités
