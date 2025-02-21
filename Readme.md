@@ -1,63 +1,45 @@
- Système de Combat RPG - Projet POO
+Systeme de combat rpg
 
-📌 Description
+Bienvenue dans le Systeme de combat rpg , un jeu de combat au tour par tour où vous incarnez un héros affrontant des créatures redoutables. Choisissez votre personnage, équipez une arme et affrontez des monstres en utilisant des attaques, des buffs/debuffs et des objets stratégiques.
 
-Ce projet est une simulation de combat RPG inspirée de Donjons et Dragons, développée en Python. Il permet au Maître du Jeu de gérer un combat entre héros et monstres, avec des attaques, des soins et des buffs.
+ Les fonctionnalités
 
-🚀 Prérequis
+La Sélection de héros et de monstres.
 
-Avant de lancer le script, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+Le Système de combat au tour par tour.
 
-Python 3.10+ (télécharger ici)
+La Gestion des armes et des objets.
 
-Git (optionnel mais recommandé pour la collaboration)
+Les Effets d'état (empoisonné, paralysé, etc.).
 
-📂 Installation
+Nos fonctionnalités Supplémentaires
 
-Cloner le projet avec Git :
+Mode Multijoueur : Affrontez un autre joueur en local.
 
-git clone https://github.com/utilisateur/nom-du-repo.git
-cd nom-du-repo
+Nouvelles Armes et Créatures : Plus de variété dans les combats.
 
-Ou téléchargez et extrayez l'archive ZIP du projet depuis GitHub.
+Effets d'état avancés : Applique des altérations de statut aux créatures, comme l'empoisonnement et la paralysie.
 
-Lancer le script principal :
+Gestion des effets d'état : Réduit la durée des effets à chaque tour et applique les pénalités associées.
 
-python main.py
+Utilisation d'objets : Permet d'utiliser des objets stratégiques comme des potions de soin, de force ou des antidotes.
 
-🎮 Fonctionnalités
+Clonez le dépôt :
 
-Sélection des personnages et monstres
+git clone https://github.com/Fatoumata-w/Combat-RPG.git
+cd Combat-RPG
 
-Système d'initiative (ordre des tours)
+Exécutez le script :
 
-Combat au tour par tour avec attaques et actions spéciales
+python game.py
 
-Gestion des résistances aux dégâts
+Mode d'utilisation
 
-Effets d'état (empoisonnement, paralysie, etc.)
+Choisissez votre héros parmi plusieurs classes.
 
-🛠 Fonctionnalités Supplémentaires
+Sélectionnez une arme et un monstre à combattre.
 
-Inventaire pour les personnages : Possibilité d'équiper des objets et des potions
+Effectuez des actions : Attaquer, Buff, Debuff ou utiliser un antidote...
 
-Attaques magiques : Ajout de sorts avec effets spéciaux (brûlure, ralentissement...)
-
-Système de sauvegarde : Enregistrement et chargement d'une partie
-
-Personnalisation des héros : Le MJ peut créer des personnages avec des statistiques personnalisées
-
-👨‍💻 Équipe de développement
-
-Alice - Gestion des personnages et du système de combat
-
-Bob - Implémentation des actions et des dés
-
-Charlie - Interface utilisateur et affichage
-
-📜 Licence
-
-Ce projet est réalisé dans le cadre du cours de POO et est libre d'utilisation.
-
-Ce fichier README.md a été rédigé pour faciliter la compréhension et l'utilisation du projet. 🚀
+Tentez de vaincre votre adversaire !
 
